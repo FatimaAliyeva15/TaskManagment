@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\Managment\Managment\bin\Debug\net6.0\Managment.exe
+C:\Users\Asus\source\repos\Managment\Managment\bin\Debug\net6.0\Managment.deps.json
+C:\Users\Asus\source\repos\Managment\Managment\bin\Debug\net6.0\Managment.runtimeconfig.json
+C:\Users\Asus\source\repos\Managment\Managment\bin\Debug\net6.0\Managment.dll
+C:\Users\Asus\source\repos\Managment\Managment\bin\Debug\net6.0\Managment.pdb
+C:\Users\Asus\source\repos\Managment\Managment\obj\Debug\net6.0\Managment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Managment\Managment\obj\Debug\net6.0\Managment.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Managment\Managment\obj\Debug\net6.0\Managment.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Managment\Managment\obj\Debug\net6.0\Managment.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Managment\Managment\obj\Debug\net6.0\Managment.dll
+C:\Users\Asus\source\repos\Managment\Managment\obj\Debug\net6.0\refint\Managment.dll
+C:\Users\Asus\source\repos\Managment\Managment\obj\Debug\net6.0\Managment.pdb
+C:\Users\Asus\source\repos\Managment\Managment\obj\Debug\net6.0\Managment.genruntimeconfig.cache
+C:\Users\Asus\source\repos\Managment\Managment\obj\Debug\net6.0\ref\Managment.dll
